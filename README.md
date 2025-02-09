@@ -3,7 +3,7 @@ Firefly configs for Outer Planets Mod
 
 This mod adds compatibility for the **Outer Planets Mod (OPM)** with the **Firefly** mod. Custom re-entry configs for each planet (with an atmosphere) in the OPM pack.
 
-KSP FORUM:
+[KSP FORUM](https://forum.kerbalspaceprogram.com/topic/226843-opm-firefly-config/)
 # Dependencies
 [Firefly](https://github.com/M1rageDev/Firefly) + Dependencies
 

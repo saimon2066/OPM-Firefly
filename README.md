@@ -1,3 +1,6 @@
+# THIS CONFIG IS NOW OBSOLETE
+Firefly 1.0.2 now has built in OPM support so just use that, its definitely better. 
+
 # OPM-Firefly
 Firefly configs for Outer Planets Mod
 
